@@ -1,3 +1,3 @@
-import { render } from './tinyFiber'
+import { render } from '../TinyFiber'
 
 export default { render }
